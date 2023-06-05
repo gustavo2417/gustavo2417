@@ -15,6 +15,8 @@
      <li>🎵️ <a href="https://github.com/gustavo2417/TrybeTunes">TrybeTunes</a> 🎵️</li>
      <li>👨‍💻️ <a href="https://github.com/gustavo2417/Algoritmos">Algoritmos</a> 👨‍💻️</li>
      <li>💫️ <a href="https://github.com/gustavo2417/solar-system">Sistema solar</a> 💫️</li>
+     <li>⚒️ <a href="https://github.com/gustavo2417/trybesmith">TrybeSmith</a> ⚒️</li>
+     <li>🤳️ <a href="https://github.com/gustavo2417/Blogs-api">Api de Blogs</a> 🤳️</li>
    </ul>
 </details close> 
 
