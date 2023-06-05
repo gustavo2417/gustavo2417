@@ -11,12 +11,12 @@
 <details close>
   <summary><h2> Meus principais Projetos: </h2></summary>
    <ul>
-     <li>⚽️ <a href="https://github.com/gustavo2417/TFC">TFC</a> ⚽️</li>
-     <li>🎵️ <a href="https://github.com/gustavo2417/TrybeTunes">TrybeTunes</a> 🎵️</li>
-     <li>👨‍💻️ <a href="https://github.com/gustavo2417/Algoritmos">Algoritmos</a> 👨‍💻️</li>
-     <li>💫️ <a href="https://github.com/gustavo2417/solar-system">Sistema solar</a> 💫️</li>
-     <li>⚒️ <a href="https://github.com/gustavo2417/trybesmith">TrybeSmith</a> ⚒️</li>
-     <li>🤳️ <a href="https://github.com/gustavo2417/Blogs-api">Api de Blogs</a> 🤳️</li>
+     <li>⚽️ <a href="https://github.com/gustavo2417/TFC" target="_blank">TFC</a> ⚽️</li>
+     <li>🎵️ <a href="https://github.com/gustavo2417/TrybeTunes" target="_blank">TrybeTunes</a> 🎵️</li>
+     <li>👨‍💻️ <a href="https://github.com/gustavo2417/Algoritmos" target="_blank">Algoritmos</a> 👨‍💻️</li>
+     <li>💫️ <a href="https://github.com/gustavo2417/solar-system" target="_blank">Sistema solar</a> 💫️</li>
+     <li>⚒️ <a href="https://github.com/gustavo2417/trybesmith" target="_blank">TrybeSmith</a> ⚒️</li>
+     <li>🤳️ <a href="https://github.com/gustavo2417/Blogs-api" target="_blank">Api de Blogs</a> 🤳️</li>
    </ul>
 </details close> 
 
